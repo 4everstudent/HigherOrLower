@@ -36,7 +36,8 @@
         android:ems="10"
         android:id="@+id/user_guess"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textColor="#e26504" />
 
     <Button
         android:layout_width="wrap_content"
