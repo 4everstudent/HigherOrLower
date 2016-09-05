@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                     message = "Too high!";
                 }
                 else{
-                    message = "Something strange happened, please inform my developer, maybe you'll get a chocolat";
+                    message = "Something strange happened, please inform my developer, maybe you'll get a chocolate";
                 }
 
             }

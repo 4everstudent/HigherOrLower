@@ -42,7 +42,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="I&apos;m I rigth?"
+        android:text="Am I right?"
         android:id="@+id/checkButton"
         android:layout_below="@+id/user_guess"
         android:layout_centerHorizontal="true"
